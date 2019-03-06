@@ -159,7 +159,7 @@ boris.go_to(rg.Point(0,-70))
 ###############################################################################
 
 rocky=rg.SimpleTurtle('turtle')
-rocky.pen=rg.Pen('blue',7)
+rocky.pen=rg.Pen('sky blue',7)
 rocky.speed=9
 
 rocky.go_to(rg.Point(-40,-100))
